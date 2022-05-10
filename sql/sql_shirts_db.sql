@@ -24,3 +24,4 @@ delete from shirts where last_worn = 200;
 delete from shirts where artical  = 'tank top';
 delete from shirts;
 drop table shirts;
+select * from shirts;
