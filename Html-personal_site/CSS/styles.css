@@ -11,3 +11,17 @@ hr {
 h1,h3 {
 color: #66BFBF;
 }
+
+#heading3{
+    background-color:white;
+    width: 15%;
+}
+
+.ptable {
+    background-color:aquamarine;
+    border-radius: 50px;
+}
+.profile{
+    border-radius: 100px;
+
+}
