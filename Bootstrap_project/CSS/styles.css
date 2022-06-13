@@ -42,3 +42,33 @@
 p {
     color: #8f8f8f;
 }
+#testimonials{
+    line-height: 15%;
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;
+    font-family: 'Montserrat-black';
+}
+.dog {
+    border-radius: 50%;
+    width: 10%;
+    margin: 20px;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+#testimonials:hover  {
+    background-color: #ff4c68;
+}
+#press:hover {
+    background-color: #ff4c68;
+}
+.press_img {
+    width: 15%;
+    margin: 10px 20px 20px;
+}
