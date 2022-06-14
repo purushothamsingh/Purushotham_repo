@@ -8,7 +8,7 @@
     line-height: 1.5;
 }
 #title{
-    padding: 3% 12%;
+    padding: 3% 7%;
 }
 
 
@@ -30,14 +30,19 @@
 .title-image{
     width: 60%;
     transform: rotate(25deg);
+    z-index: -1;
+    right: 30%;
 }
 #features {
     padding: 8% 12%;
     text-align: center;
     padding: 10%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
 }
 #features h3{
-    font-family: 'Montserrat-black';
+    font-family: 'Montserrat-black';    
 }
 p {
     color: #8f8f8f;
@@ -72,3 +77,33 @@ p {
     width: 15%;
     margin: 10px 20px 20px;
 }
+
+#pricing {
+    padding: 5% 7%;
+    
+}
+.card {
+    margin: 16px 0px 16px 0px;
+    text-align: center;
+    font-family: 'Montserrat-black';
+}
+#cta {
+    padding: 3% 12%;
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: center;
+    font-family: 'Montserrat-black';
+}
+.footer_button {
+    margin: 10px;
+}
+#footer {
+    text-align: center;
+    background-color: #fff;
+    font-size: 10px;
+}
+ #cta h3 {
+    font-size: 3rem;
+    line-height: 2.5rem;
+    padding-bottom: 3%;
+ }
