@@ -101,9 +101,14 @@ p {
     text-align: center;
     background-color: #fff;
     font-size: 10px;
+    padding: 3% 7%;
 }
  #cta h3 {
     font-size: 3rem;
     line-height: 2.5rem;
     padding-bottom: 3%;
+ }
+ .icons_footer {
+    margin: 10px;
+    width: 30%;
  }
