@@ -16,7 +16,7 @@ document.addEventListener("keypress",function (event) {
 function palySound(key){
     switch (key) {
         case "w":
-            var tom1  = new Audio("sounds/mon1.mp3");
+            var tom1  = new Audio("sounds/tom-1.mp3");
             tom1.play();
             break;
         case "a":
@@ -24,7 +24,7 @@ function palySound(key){
             tom1.play();
             break;
         case "s":
-            var tom1  = new Audio("sounds/mon2.mp3");
+            var tom1  = new Audio("sounds/kick-bass.mp3");
             tom1.play();
             break;
         case "d":
@@ -33,7 +33,7 @@ function palySound(key){
             break;
             
         case "j":
-            var tom1  = new Audio("sounds/mon3.mp3");
+            var tom1  = new Audio("sounds/tom-3.mp3");
             tom1.play();
             break;
     
@@ -42,7 +42,7 @@ function palySound(key){
             tom1.play();
             break;
         case "l":
-            var tom1  = new Audio("sounds/mon1.mp3");
+            var tom1  = new Audio("sounds/tom-4.mp3");
             tom1.play();
             break;
         default:
