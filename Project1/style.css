@@ -73,7 +73,9 @@ i {
         left: 0%;
         transition: all 0.9 ease;
     }
-   
+   label.logo{
+    padding: 0 50px;
+   }
     .menu-btn {
         width: 40px;
         color: #fff;
