@@ -8,7 +8,6 @@ body {
 
     color:lightsalmon;
 }
-
 .images {
     text-align: center;
     display: inline-block;
@@ -22,8 +21,11 @@ body {
 }
 .dice1{
     padding-right: 10px;
-    width: 60%;
-    border-radius: 20px;
+
+    width: 80%;
+    border-radius: 50px;
+
+
 }
 h1 {
     margin-block-start: 0px;
@@ -32,6 +34,7 @@ h1 {
 .players {
 font-size: 60px;
 font-weight: inherit;
+
 }
 
 
